@@ -1,0 +1,89 @@
+h1{
+    background-color: rgb(48, 136, 209);
+}
+  td{
+    background-color: rgb(209, 115, 143);
+    color: rgb(9, 9, 15);
+    border: 5px solid black;
+font-size: x-large;
+font-weight: 700;
+    text-align:center;
+}
+ 
+.nb{
+    border: none;
+}
+.c1_9{
+    background-color: rgb(44, 46, 162);
+    color: rgb(5, 4, 4);
+}
+.c1_2{
+    background-color: rgb(241, 32, 43);
+    color: black;
+}
+
+.c1_3{
+    background-color: rgb(3, 179, 3);
+    color: rgb(237, 19, 172);
+}
+
+.c2{
+    background-color: rgb(46, 227, 148);
+    color: rgb(25, 14, 14);
+
+}
+
+.c3{
+    background-color:rgb(65, 143, 104);
+    color: black;
+
+}
+.c3_1{
+    background-color:rgb(46, 227, 148);
+    color: black;
+
+}
+
+.c4{
+    background-color:rgb(46, 227, 148);
+    color:rgb(18, 17, 17);
+
+}
+
+.c5{
+    background-color:rgb(214, 52, 211);
+    color: black;
+}
+
+
+.c6_4{
+    background-color: rgb(111, 16, 24);
+    color: black;
+}
+
+.c6_1{
+    background-color: rgb(214, 52, 211);
+    color: rgb(2, 2, 3);
+}
+
+.c6_2{
+    background-color: rgb(185, 97, 185);
+    color: white;
+}
+
+.c7_0{
+    background-color: rgb(33, 141, 25);
+    color: black;
+}
+
+.c8_5{
+    background-color: rgb(235, 220, 122);
+    color: black;
+}
+
+.c9{
+    background-color: rgb(96, 48, 48);
+    color: black;
+}
+
+
